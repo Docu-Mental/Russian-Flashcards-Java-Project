@@ -41,6 +41,9 @@ At the end of the quiz, you wil be shown your score.
 
 The top 10 high scores can be seen anytime with the appropriate selection in the startup menu.
 
+## Example session
+[![](example-session-small.png)](example-session.png)
+
 ## Expanding the functionality
 
 Word information is stored in the <i>words.csv</i> file.  
