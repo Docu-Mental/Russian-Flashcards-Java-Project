@@ -7,7 +7,7 @@
 This app uses a flashcard learning technique to help you master the <b>1,000 most common Russian words</b> sourced from the <i>Russian Research Institute of Artificial Intelligence</i>.
  
 ## Contents
-The package consists of a zip file (_Russian-Flashcards-Java-Project-v1.0.1.zip_) with the following contents:
+The package consists of a zip file (_Russian-Flashcards-Java-Project-v<...>.zip_) with the following contents:
 
 - JAR file
 - _words.csv_ file
