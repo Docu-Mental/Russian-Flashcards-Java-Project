@@ -10,9 +10,9 @@ This app uses a flashcard learning technique to help you master the <b>1,000 mos
 The package consists of a zip with the following contents:
 
 - JAR file
-- words.csv file
-- run-windows.bat batch file
-- run-linux-and-mac.sh batch file
+- _words.csv_ file
+- _run-windows.bat_ batch file
+- _run-linux-and-mac.sh_ batch file
 
 ## Installing / Getting started
 > 
@@ -41,5 +41,5 @@ The top 10 high scores can be seen anytime with the appropriate selection in the
 
 ## Expanding the functionality
 
-Word information is stored in the <i>words.csv<i/> file.  
+Word information is stored in the <i>words.csv</i> file.  
 You can use a text editor to edit or delete entries in the file as needed, or add your own entries.
