@@ -1,6 +1,6 @@
 <img src="ic_launcher-playstore.png" width="100" style ="margin-bottom: -40px;">
 
-# Russian Flashcards Console App
+# Russian Flashcards Console Quiz
 > This app is designed for learners already familiar with the Russian alphabet and Cyrillic script.
 
 (Initial public release)  
@@ -42,6 +42,8 @@ At the end of the quiz, you wil be shown your score.
 The top 10 high scores can be seen anytime with the appropriate selection in the startup menu.
 
 ## Example session
+(Click to see full-size image)  
+
 [![](example-session-small.png)](example-session.png)
 
 ## Expanding the functionality
