@@ -23,7 +23,7 @@ The package consists of a zip file (_Russian-Flashcards-Java-Project-v<...>.zip_
 
 Extract all files to one folder and run the launcher appropriate to your operating system.  
 
-Note that the app will create an additional file (Highscores.txt) in the same folder at run time.
+Note that the app will create an additional file (_Highscores.txt_) in the same folder at run time.
 
 For typing Russian you will need to install a Russian keyboard layout if you do not already have one. Alternatively, you can copy text from a virtual Russian keyboard app.
 > <b>Tip for Windows users</b>   
