@@ -1,0 +1,1001 @@
+﻿id,russian,type,gender,aspect,english,archived
+1,и,conjunction,,,and,FALSE
+2,в,preposition,,,in; into,FALSE
+3,не,particle,,,not,FALSE
+4,он,pronoun,,,he,FALSE
+5,на,preposition,,,on; at; to,FALSE
+6,я,pronoun,,,I,FALSE
+7,что,conjunction,,,that; what,FALSE
+8,тот,pronoun,,,that,FALSE
+9,быть,verb,,imperfective,to be,FALSE
+10,с,preposition,,,with; from,FALSE
+11,а,conjunction,,,but; and,FALSE
+12,весь,adjective,,,all; entire,FALSE
+13,э́то,pronoun,,,this,FALSE
+14,как,adverb,,,how; as,FALSE
+15,она́,pronoun,,,she,FALSE
+16,по,preposition,,,along; by; at,FALSE
+17,но,conjunction,,,but,FALSE
+18,они́,pronoun,,,they,FALSE
+19,к,preposition,,,to; towards,FALSE
+20,у,preposition,,,at; by (possesion),FALSE
+21,из,preposition,,,from; out of,FALSE
+22,мы,pronoun,,,we,FALSE
+23,за,preposition,,,behind; beyond; for,FALSE
+24,ты,pronoun,,,you (sing. informal),FALSE
+25,вы,pronoun,,,you (pl. formal),FALSE
+26,так,adverb,,,so; thus,FALSE
+27,же,particle,,,also; indeed,FALSE
+28,сказа́ть,verb,,perfective,to say,FALSE
+29,от,preposition,,,from; away from,FALSE
+30,э́тот,adjective,,,this; that (adj),FALSE
+31,кото́рый,pronoun,,,which; who,FALSE
+32,мочь,verb,,imperfective,to be able to; can,FALSE
+33,о,preposition,,,about; of,FALSE
+34,челове́к,noun,masculine,,person; man,FALSE
+35,оди́н,num,,,one,FALSE
+36,ещё,adverb,,,still; yet; more,FALSE
+37,бы,particle,,,would (particle),FALSE
+38,тако́й,adjective,,,such; that kind of,FALSE
+39,то́лько,particle,,,only; just,FALSE
+40,себя́,pronoun,,,oneself,FALSE
+41,своё,pronoun,,,one's own,FALSE
+42,како́й,adjective,,,what kind of; which,FALSE
+43,для,preposition,,,for,FALSE
+44,уже́,adverb,,,already,FALSE
+45,когда́,adverb,,,when,FALSE
+46,кто,pronoun,,,who,FALSE
+47,вот,particle,,,here,FALSE
+48,да,particle,,,yes,FALSE
+49,год,noun,masculine,,year,FALSE
+50,знать,verb,,imperfective,to know,FALSE
+51,е́сли,conjunction,,,if,FALSE
+52,до,preposition,,,until; before; up to,FALSE
+53,говори́ть,verb,,imperfective,to speak; to talk,FALSE
+54,и́ли,conjunction,,,or,FALSE
+55,мой,adjective,,,my,FALSE
+56,вре́мя,noun,neuter,,time,FALSE
+57,рука́,noun,feminine,,hand; arm,FALSE
+58,са́мый,adjective,,,the most; the very,FALSE
+59,нет,particle,,,no; not,FALSE
+60,ни,particle,,,neither; not even,FALSE
+61,стать,verb,,perfective,to become,FALSE
+62,большо́й,adjective,,,big; large,FALSE
+63,наш,adjective,,,our,FALSE
+64,да́же,particle,,,even,FALSE
+65,друго́й,adjective,,,other; another; different,FALSE
+66,свой,adjective,,,one's own,FALSE
+67,де́ло,noun,neuter,,matter; affair; thing,FALSE
+68,под,preposition,,,under; below,FALSE
+69,где,adverb,,,where,FALSE
+70,что́бы,conjunction,,,in order that; so that,FALSE
+71,ну,particle,,,well; come on,FALSE
+72,сам,pronoun,,,oneself; himself,FALSE
+73,есть,verb,,imperfective,to eat; to be (there is),FALSE
+74,раз,noun,masculine,,time; occasion,FALSE
+75,два,num,,,two,FALSE
+76,чем,conjunction,,,than,FALSE
+77,там,adverb,,,there,FALSE
+78,глаз,noun,masculine,,eye,FALSE
+79,пе́рвый,adjective,,,first,FALSE
+80,день,noun,masculine,,day,FALSE
+81,жизнь,noun,feminine,,life,FALSE
+82,во,preposition,,,in; into (variant of в),FALSE
+83,тут,adverb,,,here,FALSE
+84,ничто́,pronoun,,,nothing,FALSE
+85,пото́м,adverb,,,afterwards; then,FALSE
+86,со,preposition,,,with (variant of с),FALSE
+87,о́чень,adverb,,,very,FALSE
+88,ли,particle,,,whether,FALSE
+89,при,preposition,,,under; at; near,FALSE
+90,хоте́ть,verb,,imperfective,to want,FALSE
+91,на́до,preposition,,,it is necessary; must,FALSE
+92,голова́,noun,feminine,,head,FALSE
+93,без,preposition,,,without,FALSE
+94,ви́деть,verb,,imperfective,to see,FALSE
+95,тепе́рь,adverb,,,now; nowadays,FALSE
+96,идти́,verb,,imperfective,to go (on foot),FALSE
+97,друг,noun,masculine,,friend,FALSE
+98,сейча́с,adverb,,,now; right now,FALSE
+99,стоя́ть,verb,,imperfective,to stand,FALSE
+100,дом,noun,masculine,,house; home,FALSE
+101,то́же,adverb,,,also; too,FALSE
+102,по́сле,preposition,,,after,FALSE
+103,мо́жно,adverb,,,one may; it is possible,FALSE
+104,сло́во,noun,neuter,,word,FALSE
+105,че́рез,preposition,,,through; across,FALSE
+106,ме́сто,noun,neuter,,place,FALSE
+107,ду́мать,verb,,imperfective,to think,FALSE
+108,здесь,adverb,,,here,FALSE
+109,спроси́ть,verb,,perfective,to ask,FALSE
+110,лицо́,noun,neuter,,face,FALSE
+111,тогда́,adverb,,,then; at that time,FALSE
+112,что,pronoun,,,what,FALSE
+113,должн́ый,adjective,,,must; ought to,FALSE
+114,ведь,particle,,,after all; you see,FALSE
+115,но́вый,adjective,,,new,FALSE
+116,ка́ждый,adjective,,,every; each,FALSE
+117,хоро́ший,adjective,,,good; fine,FALSE
+118,жить,verb,,imperfective,to live,FALSE
+119,почему́,adverb,,,why,FALSE
+120,потому́,adverb,,,therefore; that is why,FALSE
+121,сторона́,noun,feminine,,side,FALSE
+122,смотре́ть,verb,,imperfective,to look; to watch,FALSE
+123,име́ть,verb,,imperfective,to have,FALSE
+124,про́сто,adverb,,,simply; just,FALSE
+125,поня́ть,verb,,perfective,to understand,FALSE
+126,сиде́ть,verb,,imperfective,to sit,FALSE
+127,об,preposition,,,about (variant of о),FALSE
+128,нога́,noun,feminine,,leg; foot,FALSE
+129,де́лать,verb,,imperfective,to do; to make,FALSE
+130,сде́лать,verb,,perfective,to do; to make (done),FALSE
+131,вдруг,adverb,,,suddenly,FALSE
+132,никто́,pronoun,,,nobody,FALSE
+133,рабо́та,noun,feminine,,work; job,FALSE
+134,пе́ред,preposition,,,in front of; before,FALSE
+135,ваш,adjective,,,your (pl. formal),FALSE
+136,ну́жный,adjective,,,necessary; needed,FALSE
+137,над,preposition,,,above; over,FALSE
+138,взять,verb,,perfective,to take,FALSE
+139,коне́чно,adverb,,,of course; certainly,FALSE
+140,понима́ть,verb,,imperfective,to understand,FALSE
+141,дверь,noun,feminine,,door,FALSE
+142,каза́ться,verb,,imperfective,to seem,FALSE
+143,три,num,,,three,FALSE
+144,коне́ц,noun,masculine,,end,FALSE
+145,го́род,noun,masculine,,city; town,FALSE
+146,не́сколько,adverb,,,several; a few,FALSE
+147,нача́ть,verb,,perfective,to begin; to start,FALSE
+148,го́лос,noun,masculine,,voice,FALSE
+149,час,noun,masculine,,hour,FALSE
+150,пока́,adverb,,,for now; while; so long,FALSE
+151,уж,particle,,,already (particle),FALSE
+152,после́дний,adjective,,,last,FALSE
+153,бо́лее,adverb,,,more,FALSE
+154,земля́,noun,feminine,,earth; land; ground,FALSE
+155,хорошо́,adverb,,,well; fine; good,FALSE
+156,хотя́,conjunction,,,although; though,FALSE
+157,си́ла,noun,feminine,,strength; force,FALSE
+158,вода́,noun,feminine,,water,FALSE
+159,второ́й,adjective,,,second,FALSE
+160,уви́деть,verb,,perfective,to see; catch sight of,FALSE
+161,всегда́,adverb,,,always,FALSE
+162,дава́ть,verb,,imperfective,to give; to let,FALSE
+163,слу́чай,noun,masculine,,case; occasion; chance,FALSE
+164,куда́,adverb,,,where (to); whither,FALSE
+165,пойти́,verb,,perfective,to go (set off on foot),FALSE
+166,стол,noun,masculine,,table,FALSE
+167,маши́на,noun,feminine,,car; machine,FALSE
+168,мир,noun,masculine,,world; peace,FALSE
+169,ночь,noun,feminine,,night,FALSE
+170,же́нщина,noun,feminine,,woman,FALSE
+171,оста́ться,verb,,perfective,to stay; to remain,FALSE
+172,сра́зу,adverb,,,at once; immediately,FALSE
+173,совсе́м,adverb,,,completely; quite,FALSE
+174,ребёнок,noun,masculine,,child,FALSE
+175,вы́йти,verb,,perfective,to go out; to exit,FALSE
+176,вид,noun,masculine,,appearance; view; type,FALSE
+177,отец,noun,masculine,,father,FALSE
+178,вопро́с,noun,masculine,,question,FALSE
+179,дать,verb,,perfective,to give,FALSE
+180,рабо́тать,verb,,imperfective,to work,FALSE
+181,оказа́ться,verb,,perfective,to turn out,FALSE
+182,ряд,noun,masculine,,row; number; series,FALSE
+183,почти́,adverb,,,almost; nearly,FALSE
+184,снова,adverb,,,again,FALSE
+185,ста́рый,adjective,,,old,FALSE
+186,страна́,noun,feminine,,country,FALSE
+187,твой,adjective,,,your (sing. inf.),FALSE
+188,ме́жду,preposition,,,between; among,FALSE
+189,отве́тить,verb,,perfective,to answer; to reply,FALSE
+190,мно́го,adverb,,,much; many; a lot,FALSE
+191,война́,noun,feminine,,war,FALSE
+192,поду́мать,verb,,perfective,to think (briefly),FALSE
+193,де́ньги,noun,plural,,money,FALSE
+194,люби́ть,verb,,imperfective,to love,FALSE
+195,зна́чить,verb,,imperfective,to mean; to signify,FALSE
+196,бе́лый,adjective,,,white,FALSE
+197,гла́вный,adjective,,,main; chief,FALSE
+198,мину́та,noun,feminine,,minute,FALSE
+199,лишь,particle,,,only; merely,FALSE
+200,това́рищ,noun,masculine,,comrade; friend,FALSE
+201,опя́ть,adverb,,,again; once more,FALSE
+202,ждать,verb,,imperfective,to wait,FALSE
+203,одна́ко,conjunction,,,however; nevertheless,FALSE
+204,пра́вда,noun,feminine,,truth,FALSE
+205,посмотре́ть,verb,,perfective,to look; to have a look,FALSE
+206,про,preposition,,,about; concerning,FALSE
+207,никогда́,adverb,,,never,FALSE
+208,бу́дто,conjunction,,,as if; as though,FALSE
+209,часть,noun,feminine,,particle,FALSE
+210,и́менно,particle,,,namely; precisely,FALSE
+211,найти́,verb,,perfective,to find,FALSE
+212,доро́га,noun,feminine,,road,FALSE
+213,свет,noun,masculine,,light,FALSE
+214,жена́,noun,feminine,,wife,FALSE
+215,никако́й,adjective,,,no kind of; none,FALSE
+216,лежа́ть,verb,,imperfective,to lie (down),FALSE
+217,окно́,noun,neuter,,window,FALSE
+218,росси́я,noun,feminine,,Russia,FALSE
+219,мать,noun,feminine,,mother,FALSE
+220,реши́ть,verb,,perfective,to decide; to solve,FALSE
+221,получи́ть,verb,,perfective,to receive; to get,FALSE
+222,москва́,noun,feminine,,Moscow,FALSE
+223,писа́ть,verb,,imperfective,to write,FALSE
+224,у́лица,noun,feminine,,street,FALSE
+225,верну́ться,verb,,perfective,to return,FALSE
+226,вообще́,adverb,,,in general; altogether,FALSE
+227,не́который,adjective,,,some; certain,FALSE
+228,далёкий,adjective,,,distant; far,FALSE
+229,ма́ленький,adjective,,,small; little,FALSE
+230,счита́ть,verb,,imperfective,to consider; to count,FALSE
+231,ко́мната,noun,feminine,,room,FALSE
+232,у́тро,noun,neuter,,morning,FALSE
+233,сове́тский,adjective,,,Soviet,FALSE
+234,ве́чер,noun,masculine,,evening,FALSE
+235,сего́дня,adverb,,,today,FALSE
+236,душа́,noun,feminine,,soul,FALSE
+237,кни́га,noun,feminine,,book,FALSE
+238,плечо́,noun,neuter,,shoulder,FALSE
+239,вме́сте,adverb,,,together,FALSE
+240,таки́,particle,,,still; all the same,FALSE
+241,чуть,adverb,,,slightly; a little; barely,FALSE
+242,пол,noun,masculine,,floor; gender,FALSE
+243,по́мнить,verb,,imperfective,to remember,FALSE
+244,ско́лько,num,,,how much; how many,FALSE
+245,наро́д,noun,masculine,,people; nation; folk,FALSE
+246,хоть,conjunction,,,even though; at least,FALSE
+247,взгляд,noun,masculine,,glance; look; view,FALSE
+248,ру́сский,adjective,,,Russian,FALSE
+249,заче́м,adverb,,,why; what for,FALSE
+250,исто́рия,noun,feminine,,history; story,FALSE
+251,по́лный,adjective,,,full; complete,FALSE
+252,узна́ть,verb,,perfective,to find out; to learn,FALSE
+253,любой,adjective,,,any; every,FALSE
+254,бог,noun,masculine,,God,FALSE
+255,прийти́,verb,,perfective,to come; to arrive (on foot),FALSE
+256,ходи́ть,verb,,imperfective,to go; to walk,FALSE
+257,заме́тить,verb,,perfective,to notice,FALSE
+258,изве́стный,adjective,,,well-known; famous,FALSE
+259,па́лец,noun,masculine,,finger; toe,FALSE
+260,сло́вно,conjunction,,,as if; like,FALSE
+261,наконе́ц,adverb,,,at last; finally,FALSE
+262,о́бщий,adjective,,,general; common,FALSE
+263,и́мя,noun,neuter,,name,FALSE
+264,наза́д,adverb,,,ago; backwards; back,FALSE
+265,быва́ть,verb,,imperfective,to happen,FALSE
+266,мысль,noun,feminine,,thought,FALSE
+267,слы́шать,verb,,imperfective,to hear,FALSE
+268,уйти́,verb,,perfective,to leave; to go away,FALSE
+269,про́шлый,adjective,,,past; former,FALSE
+270,боя́ться,verb,,imperfective,to be afraid; to fear,FALSE
+271,бы́стро,adverb,,,quickly; fast,FALSE
+272,давно́,adverb,,,long ago; for a long time,FALSE
+273,слу́шать,verb,,imperfective,to listen,FALSE
+274,пря́мо,adverb,,,straight; directly; right,FALSE
+275,разгово́р,noun,masculine,,conversation,FALSE
+276,до́лго,adverb,,,for a long time; long,FALSE
+277,нельзя́,adverb,,,one may not,FALSE
+278,похо́жий,adjective,,,similar; alike,FALSE
+279,пра́во,noun,neuter,,right; law,FALSE
+280,лес,noun,masculine,,forest; wood,FALSE
+281,пять,num,,,five,FALSE
+282,гляде́ть,verb,,imperfective,to gaze; to look,FALSE
+283,сын,noun,masculine,,son,FALSE
+284,путь,noun,masculine,,way; path; journey,FALSE
+285,ты́сяча,num,,,thousand,FALSE
+286,пора́,noun,feminine,,time; it is time,FALSE
+287,кра́сный,adjective,,,red,FALSE
+288,сесть,verb,,perfective,to sit down,FALSE
+289,оно́,pronoun,,,it,FALSE
+290,кро́ме,preposition,,,except; besides,FALSE
+291,стена́,noun,feminine,,wall,FALSE
+292,остава́ться,verb,,imperfective,to remain; to stay,FALSE
+293,ж,particle,,,and; but (short particle),FALSE
+294,высо́кий,adjective,,,high; tall,FALSE
+295,хоте́ться,verb,,imperfective,to want; to feel like,FALSE
+296,соверше́нно,adverb,,,completely; perfectly,FALSE
+297,поэ́тому,adverb,,,therefore; that is why,FALSE
+298,написа́ть,verb,,perfective,to write,FALSE
+299,пусть,particle,,,let; let it (particle),FALSE
+300,ра́нний,adjective,,,early,FALSE
+301,чита́ть,verb,,imperfective,to read,FALSE
+302,чу́вствовать,verb,,imperfective,to feel,FALSE
+303,спина́,noun,feminine,,back,FALSE
+304,ме́сяц,noun,masculine,,month,FALSE
+305,це́лый,adjective,,,whole; entire,FALSE
+306,вести́,verb,,imperfective,to lead; to conduct,FALSE
+307,молодо́й,adjective,,,young,FALSE
+308,огромный,adjective,,,enormous; huge,FALSE
+309,те́ло,noun,neuter,,body,FALSE
+310,настоя́щий,adjective,,,real; genuine; present,FALSE
+311,продолжа́ть,verb,,imperfective,to continue,FALSE
+312,то́чно,adverb,,,exactly; precisely,FALSE
+313,язы́к,noun,masculine,,language; tongue,FALSE
+314,ма́ма,noun,feminine,,mum; mummy,FALSE
+315,среди́,preposition,,,among; amidst,FALSE
+316,стари́к,noun,masculine,,old man,FALSE
+317,успе́ть,verb,,perfective,to manage; to have time,FALSE
+318,смерть,noun,feminine,,death,FALSE
+319,власть,noun,feminine,,power; authority,FALSE
+320,ма́льчик,noun,masculine,,boy,FALSE
+321,та́кже,adverb,,,also; as well,FALSE
+322,брать,verb,,imperfective,to take,FALSE
+323,о́браз,noun,masculine,,image; form; way,FALSE
+324,письмо́,noun,neuter,,letter,FALSE
+325,живо́й,adjective,,,living; alive,FALSE
+326,отноше́ние,noun,neuter,,relationship; attitude,FALSE
+327,се́рдце,noun,neuter,,heart,FALSE
+328,ко,preposition,,,to (variant of к),FALSE
+329,нача́льник,noun,masculine,,boss; head; chief,FALSE
+330,пройти́,verb,,perfective,to pass; to go through,FALSE
+331,начина́ть,verb,,imperfective,to begin; to start,FALSE
+332,вокру́г,preposition,,,around; round,FALSE
+333,появи́ться,verb,,perfective,to appear,FALSE
+334,чёрный,adjective,,,black,FALSE
+335,де́вушка,noun,feminine,,girl; young woman,FALSE
+336,солдат,noun,masculine,,soldier,FALSE
+337,иногда́,adverb,,,sometimes,FALSE
+338,забы́ть,verb,,perfective,to forget,FALSE
+339,вспо́мнить,verb,,perfective,to remember; to recall,FALSE
+340,не́бо,noun,neuter,,sky,FALSE
+341,зате́м,adverb,,,then; after that,FALSE
+342,систе́ма,noun,feminine,,system,FALSE
+343,во́здух,noun,masculine,,air,FALSE
+344,о́ба,num,,,both,FALSE
+345,со́бственный,adjective,,,one's own; personal,FALSE
+346,пыта́ться,verb,,imperfective,to try; to attempt,FALSE
+347,находи́ться,verb,,imperfective,to be located,FALSE
+348,держать,verb,,imperfective,to hold; to keep,FALSE
+349,проси́ть,verb,,imperfective,to ask; to request,FALSE
+350,показа́ть,verb,,perfective,to show,FALSE
+351,ра́зный,adjective,,,different; various,FALSE
+352,ребя́та,noun,plural,,lads; boys; guys,FALSE
+353,брат,noun,masculine,,brother,FALSE
+354,кварти́ра,noun,feminine,,flat; apartment,FALSE
+355,отку́да,adverb,,,from where; whence,FALSE
+356,выходи́ть,verb,,imperfective,to go out; to exit,FALSE
+357,четы́ре,num,,,four,FALSE
+358,подня́ть,verb,,perfective,to raise; to lift,FALSE
+359,генера́л,noun,masculine,,general,FALSE
+360,называ́ть,verb,,imperfective,to call; to name,FALSE
+361,тре́тий,adjective,,,third,FALSE
+362,посла́ть,verb,,perfective,to send,FALSE
+363,подойти́,verb,,perfective,to approach,FALSE
+364,рассказа́ть,verb,,perfective,to tell; to narrate,FALSE
+365,осо́бенно,adverb,,,especially; particularly,FALSE
+366,кровь,noun,feminine,,blood,FALSE
+367,встать,verb,,perfective,to get up; to stand up,FALSE
+368,шаг,noun,masculine,,step,FALSE
+369,спра́шивать,verb,,imperfective,to ask (repeatedly),FALSE
+370,хозя́ин,noun,masculine,,master; owner; host,FALSE
+371,внима́ние,noun,neuter,,attention,FALSE
+372,сле́довать,verb,,imperfective,to follow,FALSE
+373,поста́вить,verb,,perfective,to put; to set; to place,FALSE
+374,бро́сить,verb,,perfective,to throw,FALSE
+375,вро́де,preposition,,,like; sort of,FALSE
+376,вели́кий,adjective,,,great,FALSE
+377,наприме́р,adverb,,,for example,FALSE
+378,оста́вить,verb,,perfective,to leave; to abandon,FALSE
+379,туда́,adverb,,,there; that way,FALSE
+380,действи́тельно,adverb,,,really; truly; indeed,FALSE
+381,ма́ло,adverb,,,little; not much,FALSE
+382,шко́ла,noun,feminine,,school,FALSE
+383,равно́,adverb,,,equally; all the same,FALSE
+384,труд,noun,masculine,,labour; work; effort,FALSE
+385,капита́н,noun,masculine,,captain,FALSE
+386,сюда́,adverb,,,here; this way,FALSE
+387,сли́шком,adverb,,,too; too much,FALSE
+388,сле́дующий,adjective,,,next; following,FALSE
+389,тяжёлый,adjective,,,heavy; difficult,FALSE
+390,па́рень,noun,masculine,,lad; fellow; guy,FALSE
+391,гру́ппа,noun,feminine,,group,FALSE
+392,со́лнце,noun,neuter,,sun,FALSE
+393,любо́вь,noun,feminine,,love,FALSE
+394,отвеча́ть,verb,,imperfective,to answer; to reply,FALSE
+395,у́хо,noun,neuter,,ear,FALSE
+396,уходи́ть,verb,,imperfective,to leave; to go away,FALSE
+397,неде́ля,noun,feminine,,week,FALSE
+398,войти́,verb,,perfective,to enter; to go in,FALSE
+399,чтоб,conjunction,,,so that; in order to,FALSE
+400,расска́зывать,verb,,imperfective,to tell; to narrate,FALSE
+401,молча́ть,verb,,imperfective,to be silent,FALSE
+402,отве́т,noun,masculine,,answer; reply,FALSE
+403,деся́ть,num,,,ten,FALSE
+404,спать,verb,,imperfective,to sleep,FALSE
+405,гото́вый,adjective,,,ready; prepared,FALSE
+406,явля́ться,verb,,imperfective,to be; to constitute,FALSE
+407,два́дцать,num,,,twenty,FALSE
+408,бе́рег,noun,masculine,,bank; shore,FALSE
+409,по́мощь,noun,feminine,,help; assistance,FALSE
+410,мужчи́на,noun,masculine,,man,FALSE
+411,моме́нт,noun,masculine,,moment,FALSE
+412,иска́ть,verb,,imperfective,to look for; to search,FALSE
+413,останови́ться,verb,,perfective,to stop,FALSE
+414,ли́чный,adjective,,,personal; private,FALSE
+415,газе́та,noun,feminine,,newspaper,FALSE
+416,дли́нный,adjective,,,long,FALSE
+417,ви́дно,adverb,,,evidently; apparently,FALSE
+418,про́тив,preposition,,,against; opposite,FALSE
+419,ве́рить,verb,,imperfective,to believe,FALSE
+420,чу́вство,noun,neuter,,feeling; sense,FALSE
+421,поря́док,noun,masculine,,order,FALSE
+422,семья́,noun,feminine,,family,FALSE
+423,а́рмия,noun,feminine,,army,FALSE
+424,немного,adverb,,,a little; a bit,FALSE
+425,игра́ть,verb,,imperfective,to play,FALSE
+426,возможность,noun,feminine,,possibility; opportunity,FALSE
+427,си́льный,adjective,,,strong; powerful,FALSE
+428,разве́,particle,,,really?; is it really so?,FALSE
+429,впро́чем,adverb,,,however; by the way,FALSE
+430,станови́ться,verb,,imperfective,to become,FALSE
+431,движе́ние,noun,neuter,,movement; motion,FALSE
+432,муж,noun,masculine,,husband,FALSE
+433,нос,noun,masculine,,nose,FALSE
+434,ти́хо,adverb,,,quietly; softly,FALSE
+435,знако́мый,adjective,,,familiar; acquainted,FALSE
+436,ого́нь,noun,masculine,,fire,FALSE
+437,двор,noun,masculine,,yard; courtyard,FALSE
+438,смочь,verb,,perfective,to manage; to be able,FALSE
+439,ино́й,adjective,,,other; different,FALSE
+440,бежа́ть,verb,,imperfective,to run,FALSE
+441,чёрный,noun,masculine,,black (noun),FALSE
+442,ско́рый,adjective,,,quick; fast,FALSE
+443,наве́рное,adverb,,,probably; perhaps,FALSE
+444,прие́хать,verb,,perfective,to arrive (vehicle),FALSE
+445,просто́й,adjective,,,simple; plain; ordinary,FALSE
+446,приня́ть,verb,,perfective,to accept; to take; to receive,FALSE
+447,у́гол,noun,masculine,,corner; angle,FALSE
+448,смысл,noun,masculine,,meaning; sense,FALSE
+449,откры́ть,verb,,perfective,to open,FALSE
+450,общество,noun,neuter,,society,FALSE
+451,грудь,noun,feminine,,chest; breast,FALSE
+452,вое́нный,adjective,,,military,FALSE
+453,происходи́ть,verb,,imperfective,to happen; to occur,FALSE
+454,де́рево,noun,neuter,,tree,FALSE
+455,не́мец,noun,masculine,,German (man),FALSE
+456,губа́,noun,feminine,,lip,FALSE
+457,снег,noun,masculine,,snow,FALSE
+458,ли́бо,conjunction,,,or; either,FALSE
+459,дя́дя,noun,masculine,,uncle,FALSE
+460,е́хать,verb,,imperfective,to go; to travel (vehicle),FALSE
+461,о́чередь,noun,feminine,,queue; turn,FALSE
+462,кой,pronoun,,,which (archaic pronoun),FALSE
+463,фо́рма,noun,feminine,,form; uniform,FALSE
+464,зако́н,noun,masculine,,law,FALSE
+465,собира́ться,verb,,imperfective,to be going to; gather,FALSE
+466,показа́ться,verb,,perfective,to seem; to appear,FALSE
+467,соба́ка,noun,feminine,,dog,FALSE
+468,домо́й,adverb,,,home; homewards,FALSE
+469,попа́сть,verb,,perfective,to get into; to hit; to end up,FALSE
+470,услы́шать,verb,,perfective,to hear,FALSE
+471,приходи́ть,verb,,imperfective,to come; to arrive,FALSE
+472,крича́ть,verb,,imperfective,to shout; to cry out,FALSE
+473,состоя́ние,noun,neuter,,state; condition,FALSE
+474,произойти́,verb,,perfective,to happen; to occur,FALSE
+475,сон,noun,masculine,,dream; sleep,FALSE
+476,подня́ться,verb,,perfective,to rise; to go up; climb,FALSE
+477,ла́дно,adverb,,,all right; OK,FALSE
+478,карма́н,noun,masculine,,pocket,FALSE
+479,ча́сто,adverb,,,often; frequently,FALSE
+480,случи́ться,verb,,perfective,to happen,FALSE
+481,зелёный,adjective,,,green,FALSE
+482,де́вочка,noun,feminine,,girl (young),FALSE
+483,ка́мень,noun,masculine,,stone,FALSE
+484,снача́ла,adverb,,,at first; from the start,FALSE
+485,ве́тер,noun,masculine,,wind,FALSE
+486,пробле́ма,noun,feminine,,problem,FALSE
+487,связь,noun,feminine,,connection; link; communication,FALSE
+488,стара́ться,verb,,imperfective,to try; to strive,FALSE
+489,гость,noun,masculine,,guest,FALSE
+490,лу́чший,adjective,,,best,FALSE
+491,зуб,noun,masculine,,tooth,FALSE
+492,ме́ра,noun,feminine,,measure; extent,FALSE
+493,век,noun,masculine,,century; age,FALSE
+494,пое́хать,verb,,perfective,to go; to travel (vehicle),FALSE
+495,но́мер,noun,masculine,,number,FALSE
+496,стра́нный,adjective,,,strange; odd,FALSE
+497,стра́шный,adjective,,,terrible; frightening,FALSE
+498,сре́дство,noun,neuter,,means; remedy,FALSE
+499,еди́нственный,adjective,,,only; sole,FALSE
+500,де́йствие,noun,neuter,,action,FALSE
+501,ход,noun,masculine,,move; stroke; course,FALSE
+502,госуда́рство,noun,neuter,,state,FALSE
+503,российский,adjective,,,Russian (relating to Russia),FALSE
+504,коро́ткий,adjective,,,short,FALSE
+505,уме́ть,verb,,imperfective,to be able to; to know how to,FALSE
+506,да́нный,adjective,,,given; this,FALSE
+507,необходи́мый,adjective,,,necessary; essential,FALSE
+508,глава́,noun,feminine,,head; chapter,FALSE
+509,па́ртия,noun,feminine,,party (political),FALSE
+510,край,noun,masculine,,edge; region; land,FALSE
+511,вперёд,preposition,,,forward; ahead,FALSE
+512,река́,noun,feminine,,river,FALSE
+513,судьба́,noun,feminine,,fate; destiny,FALSE
+514,ро́та,noun,feminine,,company (military),FALSE
+515,до́брый,adjective,,,kind; good,FALSE
+516,речь,noun,feminine,,speech,FALSE
+517,занима́ться,verb,,imperfective,to be occupied with; to study,FALSE
+518,вполне́,adverb,,,fully; quite,FALSE
+519,положи́ть,verb,,perfective,to put; to lay down,FALSE
+520,причи́на,noun,feminine,,reason; cause,FALSE
+521,гора́,noun,feminine,,mountain,FALSE
+522,ника́к,adverb,,,in no way; by no means,FALSE
+523,страх,noun,masculine,,fear,FALSE
+524,тёмный,adjective,,,dark,FALSE
+525,едва́,adverb,,,hardly; scarcely; barely,FALSE
+526,мо́ре,noun,neuter,,sea,FALSE
+527,зал,noun,masculine,,hall; room,FALSE
+528,серый,adjective,,,grey,FALSE
+529,врач,noun,masculine,,doctor; physician,FALSE
+530,во́зле,preposition,,,near; beside,FALSE
+531,дово́льно,adverb,,,quite; rather; enough,FALSE
+532,команди́р,noun,masculine,,commander,FALSE
+533,основно́й,adjective,,,basic; main,FALSE
+534,ме́дленно,adverb,,,slowly,FALSE
+535,я́сно,adverb,,,clearly; it is clear,FALSE
+536,боль,noun,feminine,,pain,FALSE
+537,господи́н,noun,masculine,,mister; sir; master,FALSE
+538,вчера́,adverb,,,yesterday,FALSE
+539,вещь,noun,feminine,,thing,FALSE
+540,результа́т,noun,masculine,,result,FALSE
+541,число́,noun,neuter,,number; date; quantity,FALSE
+542,цель,noun,feminine,,aim; goal; target,FALSE
+543,нача́ться,verb,,perfective,to begin; to start,FALSE
+544,лёгкий,adjective,,,light; easy,FALSE
+545,звать,verb,,imperfective,to call; to invite,FALSE
+546,положе́ние,noun,neuter,,position; situation,FALSE
+547,бы́вший,adjective,,,former; ex-,FALSE
+548,писа́тель,noun,masculine,,writer,FALSE
+549,далеко́,adverb,,,far; a long way,FALSE
+550,бума́га,noun,feminine,,paper,FALSE
+551,проходи́ть,verb,,imperfective,to pass; to go by,FALSE
+552,уда́ться,verb,,perfective,to succeed; to manage,FALSE
+553,план,noun,masculine,,plan,FALSE
+554,черта́,noun,feminine,,line; feature,FALSE
+555,о́коло,preposition,,,near; around; about,FALSE
+556,подо́бный,adjective,,,similar; such,FALSE
+557,широ́кий,adjective,,,wide; broad,FALSE
+558,за́втра,adverb,,,tomorrow,FALSE
+559,прийти́с,verb,,perfective,to have to; to be obliged,FALSE
+560,докуме́нт,noun,masculine,,document,FALSE
+561,снять,verb,,perfective,to take down; to take off; to film,FALSE
+562,пло́хо,adverb,,,badly; poorly,FALSE
+563,предста́вить,verb,,perfective,to imagine; to present,FALSE
+564,пре́жний,adjective,,,former; previous,FALSE
+565,произнести́,verb,,perfective,to utter; to pronounce,FALSE
+566,небольшо́й,adjective,,,small; not large,FALSE
+567,пусто́й,adjective,,,empty,FALSE
+568,обы́чно,adverb,,,usually; normally,FALSE
+569,знать,verb,,imperfective,to know,FALSE
+570,во́лос,noun,masculine,,hair,FALSE
+571,объясни́ть,verb,,perfective,to explain,FALSE
+572,па́ра,noun,feminine,,pair; couple,FALSE
+573,след,noun,masculine,,trace; track,FALSE
+574,представля́ть,verb,,imperfective,to represent; to imagine,FALSE
+575,реше́ние,noun,neuter,,decision; solution,FALSE
+576,купи́ть,verb,,perfective,to buy,FALSE
+577,существова́ть,verb,,imperfective,to exist,FALSE
+578,осо́бый,adjective,,,special; particular,FALSE
+579,ина́че,adverb,,,otherwise; differently,FALSE
+580,умере́ть,verb,,perfective,to die,FALSE
+581,класс,noun,masculine,,class,FALSE
+582,усло́вие,noun,neuter,,condition; term,FALSE
+583,центр,noun,masculine,,centre,FALSE
+584,краси́вый,adjective,,,beautiful; handsome,FALSE
+585,ско́ро,adverb,,,soon,FALSE
+586,пре́жде,preposition,,,before; previously; formerly,FALSE
+587,пить,verb,,imperfective,to drink,FALSE
+588,встре́ча,noun,feminine,,meeting; encounter,FALSE
+589,дире́ктор,noun,masculine,,director,FALSE
+590,рубль,noun,masculine,,rouble,FALSE
+591,одна́жды,adverb,,,once; one day,FALSE
+592,слу́жба,noun,feminine,,service,FALSE
+593,проце́сс,noun,masculine,,process,FALSE
+594,бли́зкий,adjective,,,close; near,FALSE
+595,чистый,adjective,,,clean; pure,FALSE
+596,президе́нт,noun,masculine,,president,FALSE
+597,па́мять,noun,feminine,,memory,FALSE
+598,сквозь,preposition,,,through; across,FALSE
+599,сообщить,verb,,perfective,to inform; to report,FALSE
+600,челове́ческий,adjective,,,human; of man,FALSE
+601,назва́ть,verb,,perfective,to name; to call,FALSE
+602,сей,adjective,,,this (archaic/literary adj),FALSE
+603,геро́й,noun,masculine,,hero,FALSE
+604,дух,noun,masculine,,spirit,FALSE
+605,худо́й,adjective,,,thin; lean,FALSE
+606,ми́мо,preposition,,,past; by,FALSE
+607,возмо́жно,adverb,,,possibly; perhaps,FALSE
+608,враг,noun,masculine,,enemy,FALSE
+609,уби́ть,verb,,perfective,to kill,FALSE
+610,кста́ти,adverb,,,by the way; incidentally,FALSE
+611,чужо́й,adjective,,,someone else's; alien; strange,FALSE
+612,согласи́ться,verb,,perfective,to agree,FALSE
+613,сча́стье,noun,neuter,,happiness,FALSE
+614,удар,noun,masculine,,blow; strike,FALSE
+615,ста́рший,adjective,,,elder; senior; older,FALSE
+616,вме́сто,preposition,,,instead of,FALSE
+617,самолёт,noun,masculine,,aeroplane,FALSE
+618,тру́дно,adverb,,,it is difficult; with difficulty,FALSE
+619,улыбну́ться,verb,,perfective,to smile,FALSE
+620,дере́вня,noun,feminine,,village,FALSE
+621,карти́на,noun,feminine,,picture; painting,FALSE
+622,улыба́ться,verb,,imperfective,to smile (habitual),FALSE
+623,почу́вствовать,verb,,perfective,to feel,FALSE
+624,бу́дущее,noun,neuter,,future,FALSE
+625,коридо́р,noun,masculine,,corridor,FALSE
+626,то́лстый,adjective,,,fat; thick,FALSE
+627,нра́виться,verb,,imperfective,to like; to please,FALSE
+628,пра́вый,adjective,,,right; rightful,FALSE
+629,больно́й,adjective,,,ill; sick,FALSE
+630,ум,noun,masculine,,mind; intelligence,FALSE
+631,ме́нее,adverb,,,less,FALSE
+632,привести́,verb,,perfective,to bring; to lead,FALSE
+633,предложи́ть,verb,,perfective,to suggest; to propose,FALSE
+634,вы́звать,verb,,perfective,to cause; to call; to summon,FALSE
+635,ма́ло,num,,,few; little (number),FALSE
+636,кабине́т,noun,masculine,,office; study,FALSE
+637,мно́гие,pronoun,,,many (people); a lot (pronoun),FALSE
+638,легко́,adverb,,,easily; lightly,FALSE
+639,коле́но,noun,neuter,,knee,FALSE
+640,хвата́ть,verb,,imperfective,to be enough; to grab,FALSE
+641,принести́,verb,,perfective,to bring,FALSE
+642,вся́кое,pronoun,,,everything; all sorts of,FALSE
+643,буты́лка,noun,feminine,,bottle,FALSE
+644,госуда́рственный,adjective,,,state; government (adj),FALSE
+645,рабо́чий,adjective,,,working; worker (adj),FALSE
+646,сто,num,,,one hundred,FALSE
+647,телефо́н,noun,masculine,,telephone,FALSE
+648,компа́ния,noun,feminine,,company,FALSE
+649,кру́пный,adjective,,,large; major,FALSE
+650,откры́тый,adjective,,,open,FALSE
+651,до́ктор,noun,masculine,,doctor,FALSE
+652,принима́ть,verb,,imperfective,to accept; to take; to receive,FALSE
+653,вниз,adverb,,,downwards; down,FALSE
+654,а́втор,noun,masculine,,author,FALSE
+655,мужи́к,noun,masculine,,peasant; fellow; bloke,FALSE
+656,вовсе,adverb,,,at all; entirely,FALSE
+657,интере́с,noun,masculine,,interest,FALSE
+658,провести́,verb,,perfective,to carry out; to spend time,FALSE
+659,хвати́ть,verb,,perfective,to be enough,FALSE
+660,дво́е,num,,,two (people),FALSE
+661,холо́дный,adjective,,,cold,FALSE
+662,счет,noun,masculine,,account; bill; score,FALSE
+663,споко́йно,adverb,,,calmly; quietly,FALSE
+664,ме́стный,adjective,,,local,FALSE
+665,лейтена́нт,noun,masculine,,lieutenant,FALSE
+666,ору́жие,noun,neuter,,weapon; arms,FALSE
+667,игра́,noun,feminine,,game,FALSE
+668,приходи́ться,verb,,imperfective,to have to; to be obliged,FALSE
+669,кри́кнуть,verb,,perfective,to shout out; to cry out,FALSE
+670,попроси́ть,verb,,perfective,to ask; to request,FALSE
+671,тре́бовать,verb,,imperfective,to demand; to require,FALSE
+672,бой,noun,masculine,,battle; fight,FALSE
+673,ка́чество,noun,neuter,,quality,FALSE
+674,смея́ться,verb,,imperfective,to laugh,FALSE
+675,родно́й,adjective,,,native; dear; own,FALSE
+676,жёлтый,adjective,,,yellow,FALSE
+677,член,noun,masculine,,member,FALSE
+678,доста́точно,adverb,,,sufficiently; enough,FALSE
+679,хлеб,noun,masculine,,bread,FALSE
+680,присла́ть,verb,,perfective,to send,FALSE
+681,золото́й,adjective,,,golden; gold,FALSE
+682,полити́ческий,adjective,,,political,FALSE
+683,обы́чный,adjective,,,usual; ordinary,FALSE
+684,разви́тие,noun,neuter,,development,FALSE
+685,ва́жный,adjective,,,important,FALSE
+686,банк,noun,masculine,,bank,FALSE
+687,сове́т,noun,masculine,,advice; council; soviet,FALSE
+688,сто́лько,adverb,,,so much; so many,FALSE
+689,возвраща́ться,verb,,imperfective,to return; to go back,FALSE
+690,тру́бка,noun,feminine,,pipe; tube; receiver,FALSE
+691,ладо́нь,noun,feminine,,palm (of hand),FALSE
+692,желе́зный,adjective,,,iron (adjective),FALSE
+693,ока́зываться,verb,,imperfective,to turn out; to find oneself,FALSE
+694,институ́т,noun,masculine,,institute,FALSE
+695,потеря́ть,verb,,perfective,to lose,FALSE
+696,молода́я,noun,feminine,,young woman; bride,FALSE
+697,прави́тельство,noun,neuter,,government,FALSE
+698,остально́й,pronoun,,,the rest; other,FALSE
+699,вы́пить,verb,,perfective,to drink (completed),FALSE
+700,пока́зывать,verb,,imperfective,to show (habitual),FALSE
+701,иде́я,noun,feminine,,idea,FALSE
+702,то́чка,noun,feminine,,point; dot,FALSE
+703,у́ровень,noun,masculine,,level,FALSE
+704,профе́ссор,noun,masculine,,professor,FALSE
+705,нау́ка,noun,feminine,,science,FALSE
+706,собы́тие,noun,neuter,,event,FALSE
+707,сою́з,noun,masculine,,union,FALSE
+708,коро́ль,noun,masculine,,king,FALSE
+709,полови́на,noun,feminine,,half,FALSE
+710,метр,noun,masculine,,metre,FALSE
+711,отда́ть,verb,,perfective,to give back; to hand over,FALSE
+712,ве́ра,noun,feminine,,faith; belief,FALSE
+713,кивну́ть,verb,,perfective,to nod,FALSE
+714,о́бласть,noun,feminine,,region; area; field,FALSE
+715,исче́знуть,verb,,perfective,to disappear,FALSE
+716,ситуа́ция,noun,feminine,,situation,FALSE
+717,ку́хня,noun,feminine,,kitchen,FALSE
+718,наде́жда,noun,feminine,,hope,FALSE
+719,род,noun,masculine,,family; kind; genus,FALSE
+720,офице́р,noun,masculine,,officer,FALSE
+721,си́ний,adjective,,,blue (dark blue),FALSE
+722,тече́ние,noun,neuter,,current; flow,FALSE
+723,информа́ция,noun,feminine,,information,FALSE
+724,получи́ться,verb,,perfective,to work out; to turn out,FALSE
+725,помо́чь,verb,,perfective,to help,FALSE
+726,тёплый,adjective,,,warm,FALSE
+727,мо́лча,adverb,,,silently; in silence,FALSE
+728,неме́цкий,adjective,,,German (adjective),FALSE
+729,ви́димо,adverb,,,apparently; evidently,FALSE
+730,бить,verb,,imperfective,to beat; to hit,FALSE
+731,ча́стый,adjective,,,frequent,FALSE
+732,по́здний,adjective,,,late,FALSE
+733,созда́ть,verb,,perfective,to create,FALSE
+734,со́рок,num,,,forty,FALSE
+735,грани́ца,noun,feminine,,border; boundary,FALSE
+736,слеза́,noun,feminine,,tear,FALSE
+737,поско́льку,conjunction,,,since; as,FALSE
+738,расска́з,noun,masculine,,story; tale,FALSE
+739,вспонима́ть,verb,,imperfective,to recall; to remember,FALSE
+740,получа́ть,verb,,imperfective,to receive; to get (habitual),FALSE
+741,трава́,noun,feminine,,grass,FALSE
+742,шесть,num,,,six,FALSE
+743,упа́сть,verb,,perfective,to fall,FALSE
+744,три́дцать,num,,,thirty,FALSE
+745,борьба́,noun,feminine,,struggle; fight,FALSE
+746,доста́ть,verb,,perfective,to get out; to take out; to reach,FALSE
+747,ше́я,noun,feminine,,neck,FALSE
+748,деся́ток,noun,masculine,,dozen; ten,FALSE
+749,наде́яться,verb,,imperfective,to hope,FALSE
+750,толпа́,noun,feminine,,crowd,FALSE
+751,моско́вский,adjective,,,Moscow (adjective),FALSE
+752,роди́тель,noun,masculine,,parent,FALSE
+753,пра́вило,noun,neuter,,rule,FALSE
+754,слать,verb,,imperfective,to send (habitual),FALSE
+755,секу́нда,noun,feminine,,second,FALSE
+756,придти́сь,verb,,perfective,to have to; to be forced,FALSE
+757,вздохну́ть,verb,,perfective,to sigh,FALSE
+758,уве́ренный,adjective,,,confident; sure,FALSE
+759,неизве́стный,adjective,,,unknown,FALSE
+760,програ́мма,noun,feminine,,programme,FALSE
+761,фами́лия,noun,feminine,,surname; family name,FALSE
+762,звук,noun,masculine,,sound,FALSE
+763,рома́н,noun,masculine,,novel; romance,FALSE
+764,мно́го,num,,,many (number),FALSE
+765,неожи́данно,adverb,,,unexpectedly; suddenly,FALSE
+766,вон,adverb,,,over there; away,FALSE
+767,то́нкий,adjective,,,thin; slender,FALSE
+768,чай,noun,masculine,,tea,FALSE
+769,вну́тренний,adjective,,,inner; internal,FALSE
+770,роль,noun,feminine,,role; part,FALSE
+771,созна́ние,noun,neuter,,consciousness; awareness,FALSE
+772,верный,adjective,,,faithful; correct; right,FALSE
+773,кома́нда,noun,feminine,,team; command,FALSE
+774,спаси́бо,noun,neuter,,thank you,FALSE
+775,прекра́сный,adjective,,,wonderful; splendid; beautiful,FALSE
+776,петь,verb,,imperfective,to sing,FALSE
+777,магази́н,noun,masculine,,shop; store,FALSE
+778,впервы́е,adverb,,,for the first time,FALSE
+779,америка́нский,adjective,,,American,FALSE
+780,воро́т,noun,masculine,,collar,FALSE
+781,прости́ть,verb,,perfective,to forgive,FALSE
+782,полко́вник,noun,masculine,,colonel,FALSE
+783,приро́да,noun,feminine,,nature,FALSE
+784,си́льно,adverb,,,strongly; very much,FALSE
+785,за́пах,noun,masculine,,smell; scent,FALSE
+786,поэ́т,noun,masculine,,poet,FALSE
+787,райо́н,noun,masculine,,district; region,FALSE
+788,лист,noun,masculine,,leaf; sheet,FALSE
+789,переста́ть,verb,,perfective,to stop; to cease,FALSE
+790,стекло́,noun,neuter,,glass,FALSE
+791,вы́ше,adverb,,,higher; above,FALSE
+792,коли́чество,noun,neuter,,quantity; number,FALSE
+793,эта́ж,noun,masculine,,floor; storey,FALSE
+794,тип,noun,masculine,,type; sort; fellow,FALSE
+795,пожа́ловать,verb,,perfective,to welcome; to grant,FALSE
+796,свобо́да,noun,feminine,,freedom; liberty,FALSE
+797,сапо́г,noun,masculine,,boot,FALSE
+798,суд,noun,masculine,,court; trial,FALSE
+799,чей,adjective,,,whose,FALSE
+800,вы́ход,noun,masculine,,exit; way out,FALSE
+801,дед,noun,masculine,,grandfather,FALSE
+802,лоб,noun,masculine,,forehead,FALSE
+803,кре́сло,noun,neuter,,armchair,FALSE
+804,дочь,noun,feminine,,daughter,FALSE
+805,серьёзный,adjective,,,serious,FALSE
+806,ожида́ть,verb,,imperfective,to expect; to wait for,FALSE
+807,хара́ктер,noun,masculine,,character; nature; temper,FALSE
+808,о́пыт,noun,masculine,,experience,FALSE
+809,пло́щадь,noun,feminine,,square; area,FALSE
+810,вновь,adverb,,,anew; again,FALSE
+811,бы́стрый,adjective,,,fast; quick,FALSE
+812,появля́ться,verb,,imperfective,to appear (habitual),FALSE
+813,управле́ние,noun,neuter,,management; administration,FALSE
+814,свя́занный,adjective,,,connected; linked,FALSE
+815,мне́ние,noun,neuter,,opinion,FALSE
+816,впереди́,preposition,,,ahead; in front,FALSE
+817,испо́льзовать,verb,,imp/perf,to use,FALSE
+818,взгляну́ть,verb,,perfective,to glance; to take a look,FALSE
+819,револю́ция,noun,feminine,,revolution,FALSE
+820,до́лгий,adjective,,,long,FALSE
+821,улы́бка,noun,feminine,,smile,FALSE
+822,рост,noun,masculine,,growth; height,FALSE
+823,ло́шадь,noun,feminine,,horse,FALSE
+824,ти́хий,adjective,,,quiet; gentle,FALSE
+825,глубо́кий,adjective,,,deep,FALSE
+826,ле́вый,adjective,,,left,FALSE
+827,ко́жа,noun,feminine,,skin; leather,FALSE
+828,при́шлый,adjective,,,newly arrived; stranger,FALSE
+829,звезда́,noun,feminine,,star,FALSE
+830,по́езд,noun,masculine,,train,FALSE
+831,протяну́ть,verb,,perfective,stretch out; reach out,FALSE
+832,служи́ть,verb,,imperfective,to serve,FALSE
+833,сестра́,noun,feminine,,sister,FALSE
+834,пожа́луйста,adverb,,,please,FALSE
+835,уе́хать,verb,,perfective,to leave; to go away (vehicle),FALSE
+836,пове́рить,verb,,perfective,to believe,FALSE
+837,ба́ба,noun,feminine,,old woman; woman (col.),FALSE
+838,не́чего,adverb,,,nothing to do; there is nothing,FALSE
+839,цвето́к,noun,masculine,,flower,FALSE
+840,дождь,noun,masculine,,rain,FALSE
+841,жела́ние,noun,neuter,,desire; wish,FALSE
+842,боле́знь,noun,feminine,,illness; disease,FALSE
+843,вызыва́ть,verb,,imperfective,to cause; to call (habitual),FALSE
+844,называ́ться,verb,,imperfective,to be called; to be named,FALSE
+845,встре́тить,verb,,perfective,to meet,FALSE
+846,сосе́д,noun,masculine,,neighbour,FALSE
+847,приме́р,noun,masculine,,example,FALSE
+848,разгова́ривать,verb,,imperfective,to talk; to converse,FALSE
+849,позво́лить,verb,,perfective,to allow; to permit,FALSE
+850,обнару́жить,verb,,perfective,to discover; to find,FALSE
+851,да́ма,noun,feminine,,lady; woman,FALSE
+852,поверну́ться,verb,,perfective,to turn around,FALSE
+853,о́рган,noun,masculine,,organ,FALSE
+854,по́ле,noun,neuter,,field,FALSE
+855,я́щик,noun,masculine,,box; drawer,FALSE
+856,цена́,noun,feminine,,price,FALSE
+857,подходи́ть,verb,,imperfective,to approach; to suit,FALSE
+858,горя́чий,adjective,,,hot,FALSE
+859,ми́лый,adjective,,,dear; sweet; kind,FALSE
+860,сла́бый,adjective,,,weak,FALSE
+861,ах,interj,,,ah!; oh!,FALSE
+862,ка́рта,noun,feminine,,card; map,FALSE
+863,сла́ва,noun,feminine,,glory; fame,FALSE
+864,ра́дость,noun,feminine,,joy,FALSE
+865,зато́,conjunction,,,but; on the other hand,FALSE
+866,тень,noun,feminine,,shadow,FALSE
+867,висе́ть,verb,,imperfective,to hang,FALSE
+868,опера́ция,noun,feminine,,operation,FALSE
+869,вы́глядеть,verb,,imperfective,to look; to appear,FALSE
+870,де́йствовать,verb,,imperfective,to act,FALSE
+871,нести́,verb,,imperfective,to carry; to bear,FALSE
+872,му́зыка,noun,feminine,,music,FALSE
+873,голубо́й,adjective,,,light blue,FALSE
+874,горе́ть,verb,,imperfective,to burn,FALSE
+875,заво́д,noun,masculine,,factory; plant,FALSE
+876,доба́вить,verb,,perfective,to add,FALSE
+877,ле́то,noun,neuter,,summer,FALSE
+878,весьма́,adverb,,,very; highly; considerably,FALSE
+879,сади́ться,verb,,imperfective,to sit down (habitual),FALSE
+880,и́бо,conjunction,,,for; because,FALSE
+881,ме́лкий,adjective,,,small; petty; fine,FALSE
+882,помога́ть,verb,,imperfective,to help (habitual),FALSE
+883,люби́мый,adjective,,,favourite; beloved,FALSE
+884,ста́нция,noun,feminine,,station,FALSE
+885,по́вод,noun,masculine,,reason; pretext,FALSE
+886,во́ля,noun,feminine,,will; freedom,FALSE
+887,литература,noun,feminine,,literature,FALSE
+888,де́тский,adjective,,,children's; childlike,FALSE
+889,пра́вильно,adverb,,,correctly; rightly,FALSE
+890,дура́к,noun,masculine,,fool; idiot,FALSE
+891,прика́з,noun,masculine,,order; command,FALSE
+892,граждани́н,noun,masculine,,citizen,FALSE
+893,интере́сно,adverb,,,interestingly; it is interesting,FALSE
+894,счастли́вый,adjective,,,happy; fortunate,FALSE
+895,кры́ша,noun,feminine,,roof,FALSE
+896,цвет,noun,masculine,,colour,FALSE
+897,весёлый,adjective,,,cheerful; merry,FALSE
+898,повтори́ть,verb,,perfective,to repeat,FALSE
+899,невозмо́жно,adverb,,,it is impossible; one cannot,FALSE
+900,статья́,noun,feminine,,article,FALSE
+901,круг,noun,masculine,,circle; round,FALSE
+902,столь,adverb,,,so; to such a degree,FALSE
+903,факт,noun,masculine,,fact,FALSE
+904,бок,noun,masculine,,side,FALSE
+905,относи́ться,verb,,imperfective,to relate to; to treat,FALSE
+906,причём,adverb,,,moreover; besides,FALSE
+907,учи́ться,verb,,imperfective,to study; to learn,FALSE
+908,стул,noun,masculine,,chair,FALSE
+909,удиви́ться,verb,,perfective,to be surprised,FALSE
+910,сре́дний,adjective,,,middle; average,FALSE
+911,совреме́нный,adjective,,,modern; contemporary,FALSE
+912,ла́герь,noun,masculine,,camp,FALSE
+913,войско́,noun,neuter,,army; troops,FALSE
+914,неда́вно,adverb,,,recently,FALSE
+915,удово́льствие,noun,neuter,,pleasure,FALSE
+916,вино́,noun,neuter,,wine,FALSE
+917,возраст,noun,masculine,,age,FALSE
+918,поги́бнуть,verb,,perfective,to perish; to die,FALSE
+919,спосо́бный,adjective,,,capable; able,FALSE
+920,ле́стница,noun,feminine,,staircase; stairs,FALSE
+921,держа́ться,verb,,imperfective,to hold on; to keep going,FALSE
+922,мини́стр,noun,masculine,,minister,FALSE
+923,фронт,noun,masculine,,front,FALSE
+924,переда́ть,verb,,perfective,to pass on; to transmit,FALSE
+925,обра́тно,adverb,,,back; backwards,FALSE
+926,стреля́ть,verb,,imperfective,to shoot,FALSE
+927,петербу́рг,noun,masculine,,St Petersburg,FALSE
+928,неуже́ли,particle,,,really?; surely not?,FALSE
+929,сад,noun,masculine,,garden,FALSE
+930,проводи́ть,verb,,imperfective,to accompany; to carry out,FALSE
+931,зада́ча,noun,feminine,,task; problem,FALSE
+932,о́стрый,adjective,,,sharp; acute,FALSE
+933,мол,particle,,,they say; allegedly (particle),FALSE
+934,осторо́жно,adverb,,,carefully; cautiously,FALSE
+935,свобо́дный,adjective,,,free,FALSE
+936,входи́ть,verb,,imperfective,to enter; to go in (habitual),FALSE
+937,темнота́,noun,feminine,,darkness,FALSE
+938,назва́ние,noun,neuter,,name; title,FALSE
+939,дви́гаться,verb,,imperfective,to move,FALSE
+940,возни́кнуть,verb,,perfective,to arise; to emerge,FALSE
+941,большинство́,noun,neuter,,majority,FALSE
+942,организа́ция,noun,feminine,,organisation,FALSE
+943,дым,noun,masculine,,smoke,FALSE
+944,вы́сший,adjective,,,highest; supreme,FALSE
+945,киломе́тр,noun,masculine,,kilometre,FALSE
+946,позвони́ть,verb,,perfective,to phone; to ring,FALSE
+947,закрича́ть,verb,,perfective,to shout out; to cry out,FALSE
+948,ради́,preposition,,,for the sake of,FALSE
+949,председа́тель,noun,masculine,,chairman,FALSE
+950,приказа́ть,verb,,perfective,to order; to command,FALSE
+951,прямо́й,adjective,,,straight; direct,FALSE
+952,про́чее,pronoun,,,the rest; other things,FALSE
+953,слегка́,adverb,,,slightly; a little,FALSE
+954,попро́бовать,verb,,perfective,to try; to attempt,FALSE
+955,вско́ре,adverb,,,soon; before long,FALSE
+956,вверх,adverb,,,upwards; up,FALSE
+957,ночно́й,adjective,,,night (adjective); nocturnal,FALSE
+958,до́ллар,noun,masculine,,dollar,FALSE
+959,носи́ть,verb,,imperfective,to carry; to wear,FALSE
+960,выраже́ние,noun,neuter,,expression,FALSE
+961,кончи́ться,verb,,perfective,to end; to finish,FALSE
+962,пла́кать,verb,,imperfective,to cry; to weep,FALSE
+963,танк,noun,masculine,,tank,FALSE
+964,меша́ть,verb,,imperfective,to hinder; to bother; to mix,FALSE
+965,сухо́й,adjective,,,dry,FALSE
+966,зима́,noun,feminine,,winter,FALSE
+967,знак,noun,masculine,,sign; symbol,FALSE
+968,семь,num,,,seven,FALSE
+969,получа́ться,verb,,imperfective,to work out; to turn out,FALSE
+970,мозг,noun,masculine,,brain,FALSE
+971,учи́тель,noun,masculine,,teacher,FALSE
+972,жела́ть,verb,,imperfective,to wish; to desire,FALSE
+973,обяза́тельно,adverb,,,certainly; without fail,FALSE
+974,майо́р,noun,masculine,,major,FALSE
+975,привы́кнуть,verb,,perfective,to get used to,FALSE
+976,поня́тно,adverb,,,clear; understandable,FALSE
+977,суди́ть,verb,,imperfective,to judge,FALSE
+978,тишина́,noun,feminine,,silence,FALSE
+979,крова́ть,noun,feminine,,bed,FALSE
+980,очередно́й,adjective,,,next; another,FALSE
+981,де́ятельность,noun,feminine,,activity,FALSE
+982,сша,noun,plural,,USA,FALSE
+983,ры́ба,noun,feminine,,fish,FALSE
+984,щека́,noun,feminine,,cheek,FALSE
+985,пти́ца,noun,feminine,,bird,FALSE
+986,обеща́ть,verb,,imp/perf,to promise,FALSE
+987,стра́шно,adverb,,,frightening; terribly,FALSE
+988,ста́вить,verb,,imperfective,to put; to place,FALSE
+989,стра́нно,adverb,,,strangely,FALSE
+990,па́па,noun,masculine,,dad; father,FALSE
+991,каса́ться,verb,,imperfective,to touch; to concern,FALSE
+992,во́дка,noun,feminine,,vodka,FALSE
+993,зда́ние,noun,neuter,,building,FALSE
+994,коло́ть,verb,,imperfective,to prick; to stab, FALSE
+995,зе́ркало,noun,neuter,,mirror,FALSE
+996,собра́ться,verb,,perfective,to gather; to meet,FALSE
+997,искусство,noun,neuter,,art,FALSE
+998,нача́ло,noun,neuter,,beginning; start,FALSE
+999,па́хнуть,verb,,imperfective,to smell,FALSE
+1000,возника́ет,verb,,imperfective,to arise),FALSE

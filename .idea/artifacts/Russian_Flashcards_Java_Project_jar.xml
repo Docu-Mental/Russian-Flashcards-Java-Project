@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Russian-Flashcards-Java-Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Russian_Flashcards_Java_Project_jar</output-path>
+    <root id="archive" name="Russian-Flashcards-Java-Project.jar">
+      <element id="module-output" name="Russian-Flashcards-Java-Project" />
+    </root>
+  </artifact>
+</component>
